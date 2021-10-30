@@ -84,7 +84,7 @@ int main()
                         }
                     }
                 }
-            }
+            } 
             cin.clear();
             cin.ignore(1000, '\n');
         }
